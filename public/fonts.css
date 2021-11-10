@@ -36,3 +36,10 @@
   font-display: swap;
   font-weight: 700;
 }
+
+/* 中文手写字体: FZSJ-ZHIWNDXSG */
+@font-face {
+  font-family: "FZSJ";
+  src: url("FZSJ-ZHIWNDXSG.woff2");
+  font-display: swap;
+}

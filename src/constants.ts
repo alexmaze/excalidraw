@@ -94,7 +94,7 @@ export const THEME = {
   DARK: "dark",
 };
 
-export const WINDOWS_EMOJI_FALLBACK_FONT = "Segoe UI Emoji";
+export const WINDOWS_EMOJI_FALLBACK_FONT = "FZSJ,Segoe UI Emoji";
 
 export const DEFAULT_FONT_SIZE = 20;
 export const DEFAULT_FONT_FAMILY: FontFamilyValues = FONT_FAMILY.Virgil;
